@@ -11,6 +11,7 @@ public class CustomerInterfaceImpl implements CustomerInterface {
 	Customer customers[] = new Customer[3];
 	public String createCustomer() {
 				logger.debug("<--- print Customer Details--->");
+				logger.debug("<--- print Customer Details--->");
 					
 				// Adding First Customer
 			       customers[0] = new Customer();
