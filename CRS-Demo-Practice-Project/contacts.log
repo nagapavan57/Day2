@@ -1,0 +1,20 @@
+12:59:08,506 DEBUG CustomerInterfaceImpl,main:13 - <--- print Customer Details--->
+12:59:08,513 DEBUG CustomerInterfaceImpl,main:53 - list customer Impl -->3
+12:59:08,513  INFO CustomerInterfaceImpl,main:59 - details of Customer--> 101AmitaDelhi
+12:59:08,513  INFO CustomerInterfaceImpl,main:59 - details of Customer--> 102Anuragpune
+12:59:08,514  INFO CustomerInterfaceImpl,main:59 - details of Customer--> 103Anishport Blair
+17:19:45,365 DEBUG CustomerInterfaceImpl,main:13 - <--- print Customer Details--->
+17:19:45,371 DEBUG CustomerInterfaceImpl,main:53 - list customer Impl -->3
+17:19:45,371  INFO CustomerInterfaceImpl,main:59 - details of Customer--> 101AmitaDelhi
+17:19:45,372  INFO CustomerInterfaceImpl,main:59 - details of Customer--> 102Anuragpune
+17:19:45,372  INFO CustomerInterfaceImpl,main:59 - details of Customer--> 103Anishport Blair
+19:02:14,467 DEBUG CustomerInterfaceImpl,main:13 - <--- print Customer Details--->
+19:02:14,483 DEBUG CustomerInterfaceImpl,main:53 - list customer Impl -->3
+19:02:14,483  INFO CustomerInterfaceImpl,main:59 - details of Customer--> 101AmitaDelhi
+19:02:14,483  INFO CustomerInterfaceImpl,main:59 - details of Customer--> 102Anuragpune
+19:02:14,483  INFO CustomerInterfaceImpl,main:59 - details of Customer--> 103Anishport Blair
+19:04:05,223 DEBUG CustomerInterfaceImpl,main:13 - <--- print Customer Details--->
+19:04:05,223 DEBUG CustomerInterfaceImpl,main:53 - list customer Impl -->3
+19:04:05,223  INFO CustomerInterfaceImpl,main:59 - details of Customer--> 101AmitaDelhi
+19:04:05,223  INFO CustomerInterfaceImpl,main:59 - details of Customer--> 102Anuragpune
+19:04:05,223  INFO CustomerInterfaceImpl,main:59 - details of Customer--> 103Anishport Blair
